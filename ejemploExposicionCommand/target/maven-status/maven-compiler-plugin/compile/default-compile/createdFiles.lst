@@ -1,0 +1,5 @@
+com\mycompany\ejemploexposicion\RemoteControlTest.class
+com\mycompany\ejemploexposicion\SimpleRemoteControl.class
+com\mycompany\ejemploexposicion\LightOnCommand.class
+com\mycompany\ejemploexposicion\Command.class
+com\mycompany\ejemploexposicion\Light.class
